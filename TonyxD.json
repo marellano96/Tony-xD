@@ -1,0 +1,150 @@
+{
+	"Mundos": [{
+			"nombre": "Grass Land",
+			"mundo": "World 1",
+      "tipo": "Enemigo",
+			"longitud": 1540,
+			"latitud": 760,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Grass_Land.PNG"
+		},{
+			"nombre": "Desert Land",
+			"mundo": "World 2",
+      "tipo": "Enemigo",
+			"longitud": 870,
+			"latitud": 440,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Desert_Land.PNG"
+		},{
+			"nombre": "Water Land",
+			"mundo": "World 3",
+      "tipo": "Enemigo",
+			"longitud": 975,
+			"latitud": 360,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Water_Land.PNG"
+		},{
+			"nombre": "Giant Land",
+			"mundo": "World 4",
+      "tipo": "Enemigo",
+			"longitud": 520,
+			"latitud": 185,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Giant_Land.PNG"
+		},{
+			"nombre": "Sky Land",
+			"mundo": "World 5",
+      "tipo": "Enemigo",
+			"longitud": 610,
+			"latitud": 900,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Sky_Land.PNG"
+		},{
+			"nombre": "Ice Land",
+			"mundo": "World 6",
+      "tipo": "Enemigo",
+			"longitud": 1215,
+			"latitud": 185,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Ice_Land.PNG"
+		},{
+			"nombre": "Pipe Land",
+			"mundo": "World 7",
+      "tipo": "Enemigo",
+			"longitud": 680,
+			"latitud": 630,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Pipe_Land.PNG"
+		},{
+			"nombre": "Dark Land",
+			"mundo": "World 8",
+      "tipo": "Enemigo",
+			"longitud": 745,
+			"latitud": 165,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Dark_Land.PNG"
+		},{
+			"nombre": "Warp Zone",
+			"mundo": "World 9",
+      "tipo": "Enemigo",
+			"longitud": 1300,
+			"latitud": 700,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Warp_Zone.PNG"
+		},{
+			"nombre": "World - e",
+			"mundo": "World 10",
+      "tipo": "Enemigo",
+			"longitud": 1430,
+			"latitud": 430,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/World_e.gif"
+		},{
+			"nombre": "Mushroom World",
+			"mundo": "World Z",
+      "tipo": "Enemigo",
+			"longitud": 1440,
+			"latitud": 570,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Mushroom_World.gif"
+		},{
+			"nombre": "Baby Bowser",
+      "mundo": "World Z",
+			"tipo": "Enemigo",
+			"longitud": 270,
+			"latitud": 360,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Baby_Bowser.png"
+		},{
+			"nombre": "Bowser",
+      "mundo": "World Z",
+			"tipo": "Enemigo ",
+			"longitud": 690,
+			"latitud": 190,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Browser.png"
+		},{
+			"nombre": "Goomba",
+      "mundo": "World Z",
+			"tipo": "Enemigo",
+			"longitud": 1440,
+			"latitud": 780,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Goomba.png"
+		},{
+			"nombre": "Hammer Mario",
+      "mundo": "World Z",
+			"tipo": "Heroe - Tierra",
+			"longitud": 1000,
+			"latitud": 470,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Hammer_Mario.png"
+		},{
+			"nombre": "Fire Mario",
+      "mundo": "World Z",
+			"tipo": "Heroe - Fuego",
+			"longitud": 950,
+			"latitud": 200,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Mario_Fire.png"
+		},{
+			"nombre": "Mushroom",
+      "mundo": "World Z",
+			"tipo": "Poder",
+			"longitud": 1440, 
+			"latitud": 500,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Mushroom.png"
+		},{
+			"nombre": "Raccon Mario",
+      "mundo": "World Z",
+			"tipo": "Heroe Aire",
+			"longitud": 585, 
+			"latitud": 540,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Raccon_Mario.png"
+		},{
+			"nombre": "Tanoki Mario",
+      "mundo": "World Z",
+			"tipo": "Heroe Aire",
+			"longitud": 1370,
+			"latitud": 225,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Tanoki_Mario.png"
+		},{
+			"nombre": "Toad",
+      "mundo": "World Z",
+			"tipo": "Aliado",
+			"longitud": 400, 
+			"latitud": 285,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Toad.png"
+		},{
+			"nombre": "Yoshi",
+      "mundo": "World Z",
+			"tipo": "Aliado",
+			"longitud": 1270,
+			"latitud": 325,
+			"imagen": "https://www.openprocessing.org/sketch/421138/files/Yoshi.png"
+		}	]
+}
